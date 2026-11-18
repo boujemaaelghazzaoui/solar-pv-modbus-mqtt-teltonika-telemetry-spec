@@ -1,0 +1,22 @@
+{
+  "name": "@softclick-ma/solar-pv-modbus-mqtt-teltonika-telemetry-spec",
+  "version": "1.0.0",
+  "description": "Modbus TCP/RTU + Teltonika RUT956/TRB145 + MQTT TLS specification for commercial Huawei/Sungrow/SMA solar fleets and KNX BMS.",
+  "homepage": "https://softclick.ma/services/iot-smart-home",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/softclick-ma/solar-pv-modbus-mqtt-teltonika-telemetry-spec.git"
+  },
+  "keywords": [
+    "solar-pv-iot",
+    "modbus-rtu",
+    "mqtt-tls",
+    "teltonika-rut956",
+    "huawei-sun2000",
+    "smart-building-bms",
+    "softclick"
+  ],
+  "license": "MIT",
+  "author": "SOFTCLICK SARL <contact@softclick.ma> (https://softclick.ma)",
+  "main": "./index.ts"
+}
